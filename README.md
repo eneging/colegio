@@ -15,7 +15,7 @@ donde podre desorrollar:
 
 Asignar un Alumno con diversos Cursos:
 
-<img src"https://github.com/eneging/colegio/blob/da9118ad23ebdbb295e30cb783327b293fe5f03d/resources/img/matricula.PNG">
+[imagenes](resources/img/matricula.PNG)
 
 
 
