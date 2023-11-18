@@ -15,7 +15,8 @@ donde podre desorrollar:
 
 Asignar un Alumno con diversos Cursos:
 
-<img src"/colegio/resources/img/matricula.PNG">
+
+<div><img src"/colegio/resources/img/matricula.PNG"></div>
 
 
 

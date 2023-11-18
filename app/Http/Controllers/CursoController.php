@@ -36,7 +36,7 @@ class CursoController extends Controller
         try {
             $curso = new Curso;
             $curso->nombre_curso = $request->nombre_curso;
-            $curso->maestro_id = $request->maestro_id;
+            $curso->docente_id = $request->docente_id;
             $curso->save();
 
         } catch (\Throwable $th) {
@@ -71,7 +71,7 @@ class CursoController extends Controller
         try {
             $curso = Curso::find($id);
             $curso->nombre_curso = $request->nombre_curso;
-            $curso->maestro_id = $request->maestro_id;
+            $curso->docente_id = $request->docente_id;
             $curso->save();
 
         } catch (\Throwable $th) {

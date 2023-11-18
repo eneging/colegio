@@ -12,7 +12,7 @@ class AlumnoController extends Controller
      */
     public function index()
     {
-        return Alumno::with('matriculas')->get();
+        return Alumno::all();
 
     }
 
