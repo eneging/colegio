@@ -11,22 +11,22 @@ donde podre desorrollar:
 #### Docentes
 ![docentesCrud](resources/img/docente.PNG)
 
-[Collecion de postman-Docentes]() 
+[Collecion de postman-Docentes](resources/collectionPostman/Docente.postman_collection.json) 
 
 #### Alumnos
-[alumnosCrud](resources/img/alumno.PNG)
-
+![alumnosCrud](resources/img/alumno.PNG)
+[Collecion de postman-alumnos](resources/collectionPostman/Alumno.postman_collection.json) 
 
 #### Cursos
-[cursosCrud](resources/img/curso.PNG)
-
+![cursosCrud](resources/img/curso.PNG)
+[Collecion de postman-cursos](resources/collectionPostman/Curso.postman_collection.json) 
 
 
 ###  Matriculas
 
 Asignar un Alumno con diversos Cursos:
 
-[imagenes](resources/img/matricula.PNG)
+![imagenes](resources/img/matricula.PNG)
 
 
 
