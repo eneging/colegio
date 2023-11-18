@@ -3,11 +3,17 @@
 
 ## Mi Mini Proyecto
 
+Mi miniproyecto consiste en crear un programa q me permite hacer las api rest siguiendo el modelo MVC con PDO con la logica de negocios de un Colegio.
+donde podre desorrollar:
+
+### Los cruds
+-Docentes,
+-Alumons,
+-Cursos,
+
+### Asignar un Alumnos con un Curso
 
 
-
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
