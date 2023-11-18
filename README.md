@@ -8,15 +8,25 @@ donde podre desorrollar:
 
 ### Los cruds
 -Docentes,
--Alumons,
+![docentesCrud](resources/img/docente.PNG)
+
+
+-Alumnos,
+![alumnosCrud](resources/img/alumno.PNG)
+
+
 -Cursos,
+![cursosCrud](resources/img/curso.PNG)
+
+
 
 ###  Matriculas
 
 Asignar un Alumno con diversos Cursos:
 
+![imagenes](resources/img/matricula.PNG)
 
-<div><img src"/colegio/resources/img/matricula.PNG"></div>
+
 
 
 
