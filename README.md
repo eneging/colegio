@@ -15,10 +15,12 @@ donde podre desorrollar:
 
 #### Alumnos
 ![alumnosCrud](resources/img/alumno.PNG)
+
 [Collecion de postman-alumnos](resources/collectionPostman/Alumno.postman_collection.json) 
 
 #### Cursos
 ![cursosCrud](resources/img/curso.PNG)
+
 [Collecion de postman-cursos](resources/collectionPostman/Curso.postman_collection.json) 
 
 
