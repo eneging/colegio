@@ -11,10 +11,11 @@ donde podre desorrollar:
 -Alumons,
 -Cursos,
 
-### Asignar un Alumnos con un Curso
+###  Matriculas
 
-con la relacion de uno a muchos 
+Asignar un Alumno con diversos Cursos:
 
+<img src"/colegio/resources/img/matricula.PNG">
 
 
 
