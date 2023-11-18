@@ -7,16 +7,18 @@ Mi miniproyecto consiste en crear un programa q me permite hacer las api rest si
 donde podre desorrollar:
 
 ### Los cruds
--Docentes,
+
+#### Docentes
 ![docentesCrud](resources/img/docente.PNG)
 
+[Collecion de postman-Docentes]() 
 
--Alumnos,
-![alumnosCrud](resources/img/alumno.PNG)
+#### Alumnos
+[alumnosCrud](resources/img/alumno.PNG)
 
 
--Cursos,
-![cursosCrud](resources/img/curso.PNG)
+#### Cursos
+[cursosCrud](resources/img/curso.PNG)
 
 
 
@@ -24,7 +26,7 @@ donde podre desorrollar:
 
 Asignar un Alumno con diversos Cursos:
 
-![imagenes](resources/img/matricula.PNG)
+[imagenes](resources/img/matricula.PNG)
 
 
 
