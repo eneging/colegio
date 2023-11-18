@@ -13,6 +13,10 @@ donde podre desorrollar:
 
 ### Asignar un Alumnos con un Curso
 
+con la relacion de uno a muchos 
+
+
+
 
 
 ## Learning Laravel
