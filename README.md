@@ -8,8 +8,10 @@ donde podre desorrollar:
 
 ### Los cruds
 -Docentes,
--Alumons,
+-Alumnos,
 -Cursos,
+
+
 
 ###  Matriculas
 
