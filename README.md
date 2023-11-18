@@ -11,15 +11,21 @@ donde podre desorrollar:
 #### Docentes
 ![docentesCrud](resources/img/docente.PNG)
 
+Datos Personales de los docentes de la institucion
+
 [Collecion de postman-Docentes](resources/collectionPostman/Docente.postman_collection.json) 
 
 #### Alumnos
 ![alumnosCrud](resources/img/alumno.PNG)
 
+Datos Personales de los Alumnos matriculado y no matriculados en la institucion
+
 [Collecion de postman-alumnos](resources/collectionPostman/Alumno.postman_collection.json) 
 
 #### Cursos
 ![cursosCrud](resources/img/curso.PNG)
+
+Datos de los cursos su nombre y su maestro asignado para las materias
 
 [Collecion de postman-cursos](resources/collectionPostman/Curso.postman_collection.json) 
 
@@ -41,6 +47,4 @@ Registrar las asistencias del alumno y calificando de acuerdo a sus tardansas:
 ###  Base de Datos en general con sus relaciones
 
 ![imagenes](resources/img/basededatos.PNG)
-
-
 
