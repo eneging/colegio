@@ -6,7 +6,7 @@
 Mi miniproyecto consiste en crear un programa q me permite hacer las api rest siguiendo el modelo MVC con PDO con la logica de negocios de un Colegio.
 donde podre desorrollar:
 
-### Los cruds / pruebas para importar a postman
+### Los cruds / Descripcion de las Api / Pruebas para importar a postman
 
 #### Docentes
 ![docentesCrud](resources/img/docente.PNG)
